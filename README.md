@@ -1,6 +1,6 @@
 # Hi! I'm Chloe 👋
 
-I'm currently building a mortgage AI agent at Zeitro.
+I'm currently building AI Agent for the mortgage industry.
 
 I'm a Product Manager specializing in AI-native products — 
 from 0→1 ideation to production shipping in both B2C and B2B environments.
